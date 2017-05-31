@@ -1,3 +1,3 @@
 # Project-6-World-Bank
 
-This is a Java console applicaton that performs CRUD operations on an H2 database that contains internet user and adult literacy rate data for countries around the world.  
+A Java console application that uses Hibernate to perform CRUD operations and statistical analysis on an H2 database.  The database contains internet usage and adult literacy data for countries around the world.
